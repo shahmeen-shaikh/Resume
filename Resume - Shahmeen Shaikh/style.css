@@ -1,0 +1,61 @@
+#home {
+    background: rgb(231, 217, 217);
+    height: fit-content;
+
+
+}
+
+.nav {
+    background: rgb(231, 217, 217);
+}
+
+
+
+.name {
+    color: #00072D;
+    text-align: right;
+    font-family: Manrope;
+    padding-right: 50px;
+    
+
+
+
+
+}
+
+.main-para {
+    padding: 150px;
+    color:#00072D;
+    font-size: 30px;
+    font-family: Manrope;
+    text-align: center;
+}
+
+.my-pic {
+    height: 600px;
+    float: left;
+    padding-right: 100px;
+    padding-bottom: 100px;
+    padding-left: 50px;
+
+}
+
+
+#about {
+    font-family: Manrope;
+    text-align: center;
+    background: rgb(231, 217, 217);
+    color:#00072D ;
+}
+
+#contact {
+    font-family: Manrope;
+    text-align: center;
+}
+
+#experience {
+    font-family: Manrope;
+    text-align: center;
+    background: rgb(231, 217, 217);
+    color:#00072D ;
+}
